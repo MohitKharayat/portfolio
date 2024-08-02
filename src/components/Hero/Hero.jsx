@@ -8,7 +8,7 @@ export const Hero = () => {
     <div className={styles.content}>
         <h1 className={styles.title}>Hi, I am Mohit Kharayat</h1>
         <p>
-            I am a computer science student, a full stack developer and a tech enthusiast. My educational journey has equipped me with a strong foundation in computer science, and I am passionate about staying on the cutting edge of technology.
+        I am a computer science student, full-stack developer, and DevOps enthusiast with a strong foundation in computer science and software engineering.I am passionate about staying on the cutting edge of technology, engaging with the tech community, attending workshops, and exploring new tools.
         </p>
         <br />
         <a href="mailto:mohitkharayat0@gmail.com" className={styles.contactBtn}>Contact me</a>

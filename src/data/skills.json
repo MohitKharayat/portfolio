@@ -16,15 +16,47 @@
       "imageSrc": "skills/node.png"
     },
     {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
-    },
-    {
       "title": "MongoDB",
       "imageSrc": "skills/mongodb.png"
     },
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "Docker",
+      "imageSrc": "skills/docker.png"
+    },
+    {
+      "title": "Kubernetes",
+      "imageSrc": "skills/kubernetes.png"
+    },
+    {
+      "title": "Jenkins",
+      "imageSrc": "skills/jenkins.png"
+    },
+    {
+      "title": "Ansible",
+      "imageSrc": "skills/ansible.png"
+    },
+    {
+      "title": "Terraform",
+      "imageSrc": "skills/terraform.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    },
+    {
+      "title": "Bash",
+      "imageSrc": "skills/bash.png"
+    },
+    {
+      "title": "AWS",
+      "imageSrc": "skills/aws.png"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "skills/linux.png"
     }
   ]
