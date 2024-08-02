@@ -1,7 +1,7 @@
 [
     {
       "role": "Web Development Intern",
-      "organisation": "Google",
+      "organisation": "Code Clause",
       "startDate": "Sept, 2023",
       "endDate": "Oct, 2023",
       "experiences": ["Developed a real-time chat app with high user engagement using React.js, and fewer server errors with RESTful APIs.", "Integrated WebSocket (Socket.io) for seamless real-time communication.","Deployed on a cloud platform with 99.9% uptime, ensuring 24/7 availability."],
